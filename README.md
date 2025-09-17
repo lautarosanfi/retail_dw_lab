@@ -1,4 +1,5 @@
 # Lab 1
+## Lautaro Sanfilippo
 
 ![Diagrama Entidad Relación](./DER.jpeg)
 
